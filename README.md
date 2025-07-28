@@ -18,3 +18,4 @@ A React-based web application to browse, view, and add books.
 - Search and filter books
 - Responsive UI with hover effects
 
+![library homepage](https://github.com/user-attachments/assets/4d8c3682-2d84-42b4-b545-d87dec5d1c9a)
